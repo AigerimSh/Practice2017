@@ -1,0 +1,20 @@
+{
+  "11292" : {
+    "name" : "Степлеры",
+    "cost" : 1200,
+    "description" : "Степлеры",
+    "image" : "images/1.png"
+  },
+  "11294" : {
+    "name" : "Ножницы",
+    "cost" : 160,
+    "description" : "Ножницы",
+    "image" : "images/2.png"
+  },
+  "11295" : {
+    "name" : "Ручки",
+    "cost" : 100,
+    "description" : "Ручки",
+    "image" : "images/3.png"
+  }
+}
